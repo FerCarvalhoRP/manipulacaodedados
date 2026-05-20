@@ -1,0 +1,31 @@
+data,produto,categoria,quantidade,preco_unitario,vendedor,regiao
+2024-01-03,Notebook Dell,Eletrônicos,2,3500.00,Ana Lima,Sul
+2024-01-05,Mouse Logitech,Eletrônicos,5,150.00,Carlos Souza,Sudeste
+2024-01-07,Cadeira Gamer,Móveis,1,1200.00,Ana Lima,Sul
+2024-01-10,Monitor LG,Eletrônicos,3,900.00,Fernanda Costa,Nordeste
+2024-01-12,Teclado Mecânico,Eletrônicos,4,350.00,Carlos Souza,Sudeste
+2024-01-15,Mesa de Escritório,Móveis,2,800.00,João Mendes,Centro-Oeste
+2024-01-18,Notebook Dell,Eletrônicos,1,3500.00,Fernanda Costa,Nordeste
+2024-01-20,Headset Sony,Eletrônicos,6,400.00,Ana Lima,Sul
+2024-01-22,Estante de Madeira,Móveis,3,450.00,Carlos Souza,Sudeste
+2024-01-25,Webcam Logitech,Eletrônicos,4,280.00,João Mendes,Centro-Oeste
+2024-02-01,Notebook Dell,Eletrônicos,3,3500.00,Ana Lima,Sul
+2024-02-03,Cadeira Gamer,Móveis,2,1200.00,Fernanda Costa,Nordeste
+2024-02-05,Mouse Logitech,Eletrônicos,8,150.00,Carlos Souza,Sudeste
+2024-02-08,Monitor LG,Eletrônicos,2,900.00,Ana Lima,Sul
+2024-02-10,Mesa de Escritório,Móveis,1,800.00,João Mendes,Centro-Oeste
+2024-02-12,Teclado Mecânico,Eletrônicos,3,350.00,Fernanda Costa,Nordeste
+2024-02-15,Headset Sony,Eletrônicos,5,400.00,Carlos Souza,Sudeste
+2024-02-18,Webcam Logitech,Eletrônicos,2,280.00,Ana Lima,Sul
+2024-02-20,Estante de Madeira,Móveis,4,450.00,João Mendes,Centro-Oeste
+2024-02-22,Notebook Dell,Eletrônicos,2,3500.00,Carlos Souza,Sudeste
+2024-03-01,Monitor LG,Eletrônicos,5,900.00,Fernanda Costa,Nordeste
+2024-03-03,Cadeira Gamer,Móveis,3,1200.00,Ana Lima,Sul
+2024-03-05,Mouse Logitech,Eletrônicos,10,150.00,João Mendes,Centro-Oeste
+2024-03-08,Teclado Mecânico,Eletrônicos,6,350.00,Carlos Souza,Sudeste
+2024-03-10,Notebook Dell,Eletrônicos,1,3500.00,Fernanda Costa,Nordeste
+2024-03-12,Mesa de Escritório,Móveis,3,800.00,Ana Lima,Sul
+2024-03-15,Headset Sony,Eletrônicos,7,400.00,Carlos Souza,Sudeste
+2024-03-18,Webcam Logitech,Eletrônicos,3,280.00,João Mendes,Centro-Oeste
+2024-03-20,Estante de Madeira,Móveis,2,450.00,Fernanda Costa,Nordeste
+2024-03-22,Monitor LG,Eletrônicos,4,900.00,Ana Lima,Sul
